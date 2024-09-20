@@ -19,8 +19,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 3984345570856
-  numberOfFiles: 221
+  numberOfBytes: 4073427051047
+  numberOfFiles: 223
   numberOfSubjects: 113
   schemaKey: AssetsSummary
   species:
@@ -113,6 +113,7 @@ contributor:
   schemaKey: Organization
   url: https://orip.nih.gov
 dateCreated: '2024-06-27T18:17:12.716594+00:00'
+datePublished: '2024-09-20T14:34:20.438871+00:00'
 description: 'The dataset used in the paper "Randi, F., Sharma, A.K., Dvali, S. et
   al. Neural signal propagation atlas of Caenorhabditis elegans. Nature 623, 406–414
   (2023)."
@@ -138,10 +139,7 @@ description: 'The dataset used in the paper "Randi, F., Sharma, A.K., Dvali, S. 
   signal propagation are crucial for interpreting neural function.
 
 
-  Read the paper at: https://www.nature.com/articles/s41586-023-06683-4
-
-
-  Example notebooks: COMING SOON'
+  Read the paper at: https://www.nature.com/articles/s41586-023-06683-4'
 ethicsApproval: []
 id: DANDI:001075/draft
 identifier: DANDI:001075
@@ -155,6 +153,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001075/versions/draft/assets/
 name: Neural signal propagation atlas of Caenorhabditis elegans
 protocol: []
+publishedBy:
+  endDate: '2024-09-20T14:34:20.438871+00:00'
+  id: urn:uuid:ca50daf4-4696-4dfc-afa3-a4039b6ee489
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2024-09-20T14:34:20.438871+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:cb0e3346-c4ae-478b-b7d3-61d3c552e1c3
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - name: Leifer Lab to NWB
   relation: dcite:IsCompiledBy
