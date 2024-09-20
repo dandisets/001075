@@ -33,8 +33,8 @@ assetsSummary:
   - OpticalChannel
   - PlaneSegmentation
 citation: Randi, Francesco; Sharma, Anuj; Dvali, Sophie; Leifer, Andrew M. (2024)
-  Neural signal propagation atlas of Caenorhabditis elegans (Version draft) [Data
-  set]. DANDI archive. https://dandiarchive.org/dandiset/001075/draft
+  Neural signal propagation atlas of Caenorhabditis elegans (Version 0.240920.1434)
+  [Data set]. DANDI archive. https://doi.org/10.48324/dandi.001075/0.240920.1434
 contributor:
 - affiliation: []
   email: cody.c.baker.phd@gmail.com
@@ -140,8 +140,9 @@ description: 'The dataset used in the paper "Randi, F., Sharma, A.K., Dvali, S. 
 
 
   Read the paper at: https://www.nature.com/articles/s41586-023-06683-4'
+doi: 10.48324/dandi.001075/0.240920.1434
 ethicsApproval: []
-id: DANDI:001075/draft
+id: DANDI:001075/0.240920.1434
 identifier: DANDI:001075
 keywords:
 - C elegans
@@ -150,7 +151,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001075/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001075/0.240920.1434/assets.yaml
 name: Neural signal propagation atlas of Caenorhabditis elegans
 protocol: []
 publishedBy:
@@ -182,6 +183,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
 studyTarget: []
-url: https://dandiarchive.org/dandiset/001075/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001075/0.240920.1434
+version: 0.240920.1434
 wasGeneratedBy: []
