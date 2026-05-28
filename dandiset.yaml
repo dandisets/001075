@@ -37,7 +37,10 @@ citation: Randi, Francesco; Sharma, Anuj; Dvali, Sophie; Leifer, Andrew M. (2026
   Neural signal propagation atlas of Caenorhabditis elegans (Version draft) [Data
   set]. DANDI Archive. https://dandiarchive.org/dandiset/001075/draft
 contributor:
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/01d74sk53
+    name: CatalystNeuro
+    schemaKey: Affiliation
   email: cody.c.baker.phd@gmail.com
   identifier: 0000-0002-0829-4790
   includeInCitation: false
